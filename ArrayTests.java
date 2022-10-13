@@ -21,9 +21,4 @@ public class ArrayTests {
     double[] input1 = {2.0, 2.0, 6.0};
     assertEquals(4.0, ArrayExamples.averageWithoutLowest(input1), 0.0);
   }
-
-  @Test
-  public void testFilter() {
-    
-  }
 }
